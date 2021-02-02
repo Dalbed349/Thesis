@@ -38,7 +38,7 @@ http://dx.doi.org/10.5751/ES-07578-200314
 https://bhamnow.com/2017/10/30/knew-alabama-ranks-first-biodiversity/
 
 
-	Forest industry. 
+Forest industry. 
 Green Gold : Alabama's Forests and Forest Industries
 James E. Fickle
 Fickle, James E.. Green Gold : Alabama's Forests and Forest Industries. Tuscaloosa: University of Alabama Press, 2014. Accessed January 26, 2021. ProQuest Ebook Central.
