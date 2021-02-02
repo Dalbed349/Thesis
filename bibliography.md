@@ -1,4 +1,4 @@
-##Work in progress Bibliography and relevant sources
+## Work in progress Bibliography and relevant sources
 
 Dallas Alberti
 Research Articles 
@@ -33,12 +33,11 @@ http://dx.doi.org/10.5751/ES-07578-200314
 
 
 
-----
+# ----
 
 https://bhamnow.com/2017/10/30/knew-alabama-ranks-first-biodiversity/
 
 
----- 
 	Forest industry. 
 Green Gold : Alabama's Forests and Forest Industries
 James E. Fickle
@@ -51,7 +50,7 @@ Sarah E. Janssen, Michael T. Tate, David P. Krabbenhoft, John F. DeWild, Jacob M
 
 
 
-------2/2/21 adding more links not full citations yet. 
+# ------2/2/21 adding more links not full citations yet. 
 
 https://www.al.com/news/2019/12/the-top-alabama-environmental-stories-of-2019.html
  
