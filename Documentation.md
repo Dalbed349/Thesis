@@ -1,1 +1,1 @@
-![Mind Map](https://raw.github.com/Dalbed349/Thesis/tree/main/images/MSDV_Thesis_MindMap_Large.png)
+![Mind Map](https://github.com/Dalbed349/Thesis/blob/main/images/MSDV_Thesis_MindMap_Large.png)
